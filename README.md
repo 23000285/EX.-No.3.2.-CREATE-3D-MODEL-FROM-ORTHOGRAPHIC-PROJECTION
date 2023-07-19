@@ -42,6 +42,7 @@ To create a 3D model from given orthographic projection.
 ![image](https://user-images.githubusercontent.com/113594316/198823540-38a1b79a-1f68-4876-add9-adf59b98b386.png)
 
 ## OUTPUT:
+![hima Drawing AT18 07 2023_page-0001 (1)](https://github.com/23000285/EX.-No.3.2.-CREATE-3D-MODEL-FROM-ORTHOGRAPHIC-PROJECTION/assets/138970859/fa923912-c7fe-4806-bb02-8e22daa9568c)
 
 ## RESULT:
 Thus, 3D model is created from orthographic projection.
